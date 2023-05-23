@@ -1,0 +1,39 @@
+[Adblock Plus 2.0]
+! Homepage: https://namu.wiki/w/Hitomi.la#s-3.2
+! License: https://namu.wiki/w/Hitomi.la#s-3.2
+! Title: HAM
+! Expires: 4 days
+! Version: 20220113
+
+||hitomi.la^$script
+||hitomi.la^$third-party
+||exosrv.com^
+@@bootstrap.min$domain=hitomi.la,script
+@@columns$domain=hitomi.la,script
+@@common$domain=hitomi.la,script
+@@date$domain=hitomi.la,script
+@@download$domain=hitomi.la,script
+@@FileSaver.min$domain=hitomi.la,script
+@@galleries/*$domain=hitomi.la,script
+@@gallery$domain=hitomi.la,script
+@@galleryblock$domain=hitomi.la,script
+@@jquery-ui.min$domain=hitomi.la,script
+@@jquery.hotkeys$domain=hitomi.la,script
+@@jquery.min$domain=hitomi.la,script
+@@js.cookie$domain=hitomi.la,script
+@@jszip.min$domain=hitomi.la,script
+@@jwplayer.html5$domain=hitomi.la,script
+@@jwplayer$domain=hitomi.la,script
+@@limitlists$domain=hitomi.la,script
+@@moment-with-locales$domain=hitomi.la,script
+@@moveimage$domain=hitomi.la,script
+@@pagination.min$domain=hitomi.la,script
+@@paging$domain=hitomi.la,script
+@@reader$domain=hitomi.la,script
+@@results$domain=hitomi.la,script
+@@search$domain=hitomi.la,script
+@@searchlib$domain=hitomi.la,script
+@@yall.min$domain=hitomi.la,script
+@@decode_webp$domain=hitomi.la,script
+@@language_support$domain=hitomi.la,script
+@@gg.js$domain=hitomi.la,script
